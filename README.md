@@ -19,3 +19,9 @@ pip freeze > requirements.txt
   -Get employees that earn more than 100000    
 
 ![image](https://github.com/user-attachments/assets/31fdabad-47fa-4398-a5f3-7551ec494d2c)
+
+<br />
+
+What's next:    
+-Store outputs in csv files      
+-Do same filterings with PySpark SQL     
